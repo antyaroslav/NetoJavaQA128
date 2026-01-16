@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea/
-/NetoQA128Yar.iml/
+NetoQA128Yar.iml
 # Compiled Java output
 *out/
 
